@@ -15,7 +15,3 @@ Soy yedy, desarrollador full stack con experiencia en desarrollo web. Trabajo co
 - 📧 [Email](yedixonjrf@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/yedixon-ramones-5297b1277/)
 - 🌐 [Portfolio](https://yedy-devx.vercel.app/)
-
----
-
-💡 Apasionado por resolver problemas complejos y construir experiencias digitales intuitivas que generen impacto real.
