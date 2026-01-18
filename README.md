@@ -4,11 +4,11 @@ Soy yedy, desarrollador full stack con experiencia en desarrollo web. Trabajo co
 
 ## Tecnologías
 
-- **Frontend:** Next.js, React, React Native, TypeScript, CSS, HTML, Tailwind CSS, Bootstrap
-- **Backend:** Node.js, Express, NestJS, Prisma, TypeORM, APIs RESTful
+- **Frontend:** Next.js, React, React Native, TypeScript, CSS, HTML, Tailwind CSS
+- **Backend:** Node.js, Express, NestJS, Prisma, TypeORM, Laravel, PHP
 - **Bases de datos:** MongoDB, PostgreSQL, MySQL, Oracle, Supabase
 - **Tools:** Docker, Git, GitHub, Claude Code, Cursor, Postman
-- **Otros:** Jest, Figma, V0, Lovable, Scrum
+- **Otros:** Jest, Figma, V0, Lovable, Motion, Scrum
 
 ## Contacto
 
